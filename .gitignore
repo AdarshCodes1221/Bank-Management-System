@@ -1,0 +1,18 @@
+# Environment / secrets
+.env
+.env.*
+
+# Keep example environment file
+!.env.example
+
+# IntelliJ
+.idea/
+*.iml
+
+# Compiled Java
+out/
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
